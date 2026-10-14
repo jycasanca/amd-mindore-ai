@@ -1,0 +1,2 @@
+# amd-mindore-ai
+Minas
